@@ -1,6 +1,8 @@
 # alarm_tutorial
 
-A new Flutter application.
+This is a UI of Responsive Alarm App build in Flutter.
+
+- [Learn to build this UI in Youtube](https://youtu.be/0p6CKbOGFD0)
 
 ## Getting Started
 
