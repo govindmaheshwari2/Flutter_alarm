@@ -16,7 +16,7 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Alarm")),
+      appBar: AppBar(title: Text("Alarm",style:TextStyle(color:Colors.black)),
       body: SafeArea(
         child: Column(
           children: [
